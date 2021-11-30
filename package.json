@@ -1,5 +1,5 @@
 {
-  "name": "starter-template",
+  "name": "my-questionnaire",
   "version": "1.0.0",
   "description": "webpack and react starter configuration",
   "main": "index.js",
@@ -27,5 +27,13 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-anka/myQuestionnaire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/g-anka/myQuestionnaire/issues"
+  },
+  "homepage": "https://github.com/g-anka/myQuestionnaire#readme"
 }
