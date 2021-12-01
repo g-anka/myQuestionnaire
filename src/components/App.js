@@ -1,13 +1,13 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import MainPage from "./MainPage";
+import QuestionsForm from "./QuestionsForm";
 
 
 function App(){
     return(
         <div className="App">
             <Routes>
-                <Route path ="/" element={<MainPage />} />
+                <Route path ="/" element={<QuestionsForm />} />
             </Routes>
         </div>
     )
